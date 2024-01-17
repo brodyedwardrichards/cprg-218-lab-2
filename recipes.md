@@ -78,6 +78,7 @@ Ingredients:
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
+- Onion
 - Lettuce
 - Tomato
 - Mayonnaise
