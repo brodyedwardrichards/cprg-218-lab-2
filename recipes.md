@@ -114,3 +114,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Banana Bread
+- 3 whole bananas
+- 2 cups of sugar
+- 1 cup of milk
+- 1 cup of flour 
+
+Instructions: 
+1. Preheat oven to 400
+2. Mix all the ingredients 
+3. Cook in a baking tray
+4. Cook for 30 minutes
+5. Cool on a cooling rack
+6. Enjoy
